@@ -264,3 +264,5 @@ print(type(int(age)))
 *- You cannot concatenate different variables for example: A string with an integer*
 
 *- Look at example above for the two ways of concatenation*
+
+Hello
